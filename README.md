@@ -14,4 +14,7 @@ my first-task leothai
    - Master { table name cities (id,name)value(1{seoul},2{tokyo},3{bankok})}
    - User { table name users (id,name,cities,email)value(1{leo,1,leo@mail.com},2{jhon,2,john@mail.com},3{lisa,3,lisa@mail.com})}
 8. Install Ruby on Rails
-   - Get Ubuntu 
+   - Get Ubuntu for Window
+   - sudo apt update
+   - sudo apt upgrade
+   - sudo apt install mysql-server
