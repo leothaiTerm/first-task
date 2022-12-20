@@ -7,4 +7,6 @@ my first-task leothai
 4. Create New Repository with Public.
    - Repository name: first-task
    - public or private: public
-5. 
+5. Install Important Tools on PC
+   - Docker, Ruby on rails, PostgreSQL, GraphQL, Altair
+   - Docker, PHP Laravel(or Lumen), MySQL, RestAPI, Postman
