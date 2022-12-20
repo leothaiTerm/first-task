@@ -25,4 +25,5 @@ my first-task leothai
    - xampp download
    - instaling
    - start apache and mysql service
- 10. create database and table follow No.6.
+ 10. create database and create table  structure follow No.6.
+ 11. Insert any value since start until completed.
