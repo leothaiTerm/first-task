@@ -10,3 +10,7 @@ my first-task leothai
 5. Install Important Tools on PC
    - Docker, Ruby on rails, PostgreSQL, GraphQL, Altair
    - Docker, PHP Laravel(or Lumen), MySQL, RestAPI, Postman
+6. Create Database and Shema
+   - Master { table name cities (id,name)value(1{seoul},2{tokyo},3{bankok})}
+   - User { table name cities (id,name,cities,email)value(1{leo,1,leo@mail.com},2{jhon,2,john@mail.com},3{lisa,3,lisa@mail.com})}
+8.    
