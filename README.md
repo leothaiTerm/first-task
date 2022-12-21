@@ -10,6 +10,7 @@ my first-task leothai
 5. Install Important Dev Tools on PC
    - Docker, Ruby on rails, PostgreSQL, GraphQL, Altair
       - Docker Desktop
+      -![image](https://user-images.githubusercontent.com/121023196/208801649-5cd8c009-96a6-4382-a036-d19dafa42da4.png)
       - Ruby version 3.1.3 on rails version 7.1.0 
       - 
    - Docker, PHP Laravel(or Lumen), MySQL, RestAPI, Postman
