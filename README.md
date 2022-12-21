@@ -32,4 +32,13 @@ my first-task leothai
    - start apache and mysql service.
  10. create database and create table  structure follow No.6.
  11. Insert any value since start until completed.
- 12. Altair GraphQL Client setup on Chorme browser.
+ 12. re-Check tools installation
+      - Install RVM Ruby Version Manager
+      - Install and Configure Ruby
+      - Install Nodejs and Yarn
+      - Update RubyGem Package Manager
+      - Install Ruby on Rails Latest Version
+      - Install and Configure PostgreSQL Database
+      - Start First Ruby on Rails Project with PostgreSQL Database
+      - Create Simple CRUD with Ruby on Rails
+ 13. Altair GraphQL Client setup on Chorme browser.
