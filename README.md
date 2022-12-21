@@ -9,7 +9,11 @@ my first-task leothai
    - public or private: public
 5. Install Important Dev Tools on PC
    - Docker, Ruby on rails, PostgreSQL, GraphQL, Altair
+      - Docker Desktop
+      - Ruby version 3.1.3 on rails version 7.1.0 
+      - 
    - Docker, PHP Laravel(or Lumen), MySQL, RestAPI, Postman
+      
 6. Create Database and Shema
    - Master { table cityName cities (id,name)value(1{seoul},2{tokyo},3{bankok})}
    -![image](https://user-images.githubusercontent.com/121023196/208636217-356665e0-356a-4814-809a-ff10b41af8bb.png)
