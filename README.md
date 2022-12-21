@@ -45,7 +45,7 @@ my first-task leothai
     5.5. create database and create table  structure follow No.6.
     5.6. Insert any value since start until completed.
 
-    5.7 Install Ruby on Rails [Git]
+    5.7 Install Ruby on Rails [Git -Notebok]
 
 
  6. Altair GraphQL Client setup on Chorme browser.
